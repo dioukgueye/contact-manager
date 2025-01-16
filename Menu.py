@@ -104,7 +104,7 @@ class Main:
         while True : 
             print("\nMenu :")
             print("1. Ajouter un contact")
-            print("2. Afficher les contacts")
+            print("2. Afficher tous les contacts")
             print("3. Rechercher un contact")
             print("4. Modifier un contact")
             print("5. Supprimer un contact")
